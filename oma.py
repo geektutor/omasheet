@@ -1,4 +1,4 @@
-# Python code to split the list two element  
+# Python code to split a list of two element  
 # at a time and insert it into excel. 
   
 # Importing pandas as pd 
